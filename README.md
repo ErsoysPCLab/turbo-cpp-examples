@@ -1,2 +1,2 @@
 # turbo-cpp-examples
-Turbo C++ examples of PCdem
+Turbo C++ examples of Erdem's PC Lab
