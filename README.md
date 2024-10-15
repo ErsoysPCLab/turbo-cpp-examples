@@ -1,2 +1,2 @@
 # turbo-cpp-examples
-Turbo C++ examples of Erdem's PC Lab
+Turbo C++ examples of Ersoy's PC Lab
